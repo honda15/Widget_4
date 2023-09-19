@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Widget_4</string>
+    <string name="bmi_low">Your BMI value is under weight</string>
+    <string name="bmi_normal">Your BMI value is normal</string>
+    <string name="bmi_high">Your BMI value is weight</string>
+    <string name="bmi_over">Your BMI value is obesity</string>
+</resources>
